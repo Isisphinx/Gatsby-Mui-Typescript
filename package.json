@@ -1,23 +1,22 @@
 {
-  "name": "gatsby-mui-typescript",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "name": "gatsby",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "gatsby": "latest",
+    "gatsby-plugin-manifest": "latest",
+    "gatsby-plugin-material-ui": "latest",
+    "gatsby-plugin-offline": "latest",
+    "gatsby-plugin-react-helmet": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest",
+    "typeface-roboto": "latest"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "gatsby":"gatsby"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Isisphinx/Gatsby-Mui-Typescript.git"
-  },
-  "author": "Thibaut Constant",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/Isisphinx/Gatsby-Mui-Typescript/issues"
-  },
-  "homepage": "https://github.com/Isisphinx/Gatsby-Mui-Typescript#readme",
-  "devDependencies": {
-    "gatsby-cli": "^2.6.2"
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
   }
 }

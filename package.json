@@ -9,6 +9,7 @@
     "gatsby-plugin-material-ui": "latest",
     "gatsby-plugin-offline": "latest",
     "gatsby-plugin-react-helmet": "latest",
+    "gatsby-plugin-typescript": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-helmet": "latest",
@@ -17,6 +18,13 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react-helmet": "latest",
+    "typescript": "latest"
   }
 }

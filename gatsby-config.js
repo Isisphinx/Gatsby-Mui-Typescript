@@ -14,6 +14,7 @@ module.exports = {
     // 'gatsby-plugin-styled-components',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-offline',
+    'gatsby-plugin-typescript',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

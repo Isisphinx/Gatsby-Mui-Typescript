@@ -13,6 +13,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-helmet": "latest",
+    "remove": "^0.1.5",
     "typeface-roboto": "latest"
   },
   "scripts": {

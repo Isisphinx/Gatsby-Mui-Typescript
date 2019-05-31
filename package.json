@@ -21,7 +21,7 @@
     "serve": "gatsby serve",
     "tsc": "tsc",
     "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
-    "lint:fix": "yarn lint --fix"
+    "lint:fix": "eslint --fix --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx"
   },
   "devDependencies": {
     "@types/react": "latest",

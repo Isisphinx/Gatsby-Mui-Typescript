@@ -2,7 +2,6 @@
 
 ## Todo
 
-- Jest
 - Recommended Extension
 
 ## Ref

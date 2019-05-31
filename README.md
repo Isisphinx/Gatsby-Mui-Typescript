@@ -2,8 +2,6 @@
 
 ## Todo
 
-- Typescript
-- Eslint
 - Jest
 - Recommended Extension
 

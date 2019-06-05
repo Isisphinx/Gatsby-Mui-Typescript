@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.0.1",
     "gatsby": "latest",
     "gatsby-plugin-manifest": "latest",
     "gatsby-plugin-material-ui": "latest",
@@ -25,23 +26,23 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@types/node": "^12.0.4",
+    "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@types/react-helmet": "latest",
     "@typescript-eslint/eslint-plugin": "latest",
     "@typescript-eslint/parser": "latest",
-    "babel-jest": "^24.8.0",
-    "babel-preset-gatsby": "^0.1.11",
+    "babel-jest": "latest",
+    "babel-preset-gatsby": "latest",
     "eslint": "latest",
     "eslint-config-prettier": "latest",
     "eslint-plugin-prettier": "latest",
     "eslint-plugin-react": "latest",
-    "identity-obj-proxy": "^3.0.0",
-    "jest": "^24.8.0",
+    "identity-obj-proxy": "latest",
+    "jest": "latest",
     "prettier": "latest",
-    "react-test-renderer": "^16.8.6",
-    "ts-jest": "^24.0.2",
+    "react-test-renderer": "latest",
+    "ts-jest": "latest",
     "typescript": "latest"
   }
 }
